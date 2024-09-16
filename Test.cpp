@@ -4,7 +4,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello Lop Ki Nang Nghe Nghiep Sang Thu 5!\n";
 }
 
 
